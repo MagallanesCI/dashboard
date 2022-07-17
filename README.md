@@ -1,0 +1,2 @@
+# dashboard
+Magallanes Dashboard
